@@ -1,6 +1,6 @@
 
 <div align='center'>
-    <font size='16'>Polarization Cookbook</font>
+    <font size='48'>Polarization Cookbook</font>
 </div>
 
 ## Table of contents
